@@ -1,2 +1,2 @@
-# first-calculator
-calculator made with the help of my teacher Ms. Jilsa Chandarana
+# readme
+Kyu padh rahe ho mujhe koi kaam dhandha nhi hai kya
